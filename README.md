@@ -1,3 +1,5 @@
+Note from Molly: This repository was originally forked from a series of templates used for the Computer Science senior seminar papers and presentations at UMM. I have since built on the templates and added my final CSci seminar paper and presentation. The paper and presentation can be found in PDF form in the Paper and Talk files, respectively. For now, I have decided to leave the rest of this readme in its original form. 
+
 # UMM CSci Senior seminar templates
 
 LaTeX templates for University of Minnesota, Morris, Computer Science senior seminar proceedings and presentations.
